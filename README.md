@@ -5,7 +5,7 @@
 
 💪 **A conversion-optimized landing page** for modern fitness studios. Built to attract and convert visitors into members with sleek design and flawless performance.
 
-![Fitora Gym Screenshot](./public/screenshot.png)
+![Fitora Gym Screenshot](./public/capture.png)
 
 ## 🏆 Key Features
 
@@ -30,6 +30,39 @@
 - **100% Accessibility**: WCAG compliant
 - **Zero Layout Shift**: Perfect Core Web Vitals
 
+## 🌟 Why This Stands Out
+**This landing page delivers real business value:**
+
+- **2.3x better conversion than typical gym websites**
+
+- **Fully customizable for different fitness niches**
+
+- **Easy content updates through clean code structure**
+
+## 🏋️‍♂️ Perfect For
+- **Personal trainers**
+
+- **CrossFit boxes**
+
+- **Yoga studios**
+
+- **Fitness franchises**
+
+## 🤝 Available for Projects
+**I specialize in building:**
+
+- **High-converting websites**
+
+- **Performance-optimized websites**
+
+- **Tailwind CSS implementations**
+
+📞**Contact**: koladjamomo@gmail.com <br /> <br />
+🔗 **Portfolio**: [kmvdev.vercel.app](http://kmvdev.vercel.app/)
+
+**Deployed on Vercel**: http://fitora.vercel.app
+
+
 ## 💻 Developer Setup
 
 ```bash
@@ -37,34 +70,3 @@ git clone https://github.com/yourusername/fitora.git
 cd fitora
 npm install
 npm run dev
-🌟 Why This Stands Out
-This landing page delivers real business value:
-
-2.3x better conversion than typical gym websites
-
-Fully customizable for different fitness niches
-
-Easy content updates through clean code structure
-
-🏋️‍♂️ Perfect For
-Personal trainers
-
-CrossFit boxes
-
-Yoga studios
-
-Fitness franchises
-
-🤝 Available for Projects
-I specialize in building:
-
-High-converting landing pages
-
-Performance-optimized websites
-
-Tailwind CSS implementations
-
-📞 Contact: your.email@example.com
-🔗 Portfolio: yourportfolio.com
-
-Deployed on Vercel: fitora.vercel.app
