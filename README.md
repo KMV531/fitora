@@ -65,8 +65,14 @@
 
 ## 💻 Developer Setup
 
-```bash
-git clone https://github.com/yourusername/fitora.git
-cd fitora
-npm install
-npm run dev
+1. Clone repository:
+   ```bash
+   git clone https://github.com/KMV531/fitora.git
+   
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Run development server:
+   ```bash
+   npm run dev
